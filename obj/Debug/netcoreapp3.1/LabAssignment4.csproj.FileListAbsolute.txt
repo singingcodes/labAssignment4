@@ -1,0 +1,13 @@
+C:\Users\GREAT\Desktop\C# Assignment\LabAssignment4\obj\Debug\netcoreapp3.1\LabAssignment4.csprojAssemblyReference.cache
+C:\Users\GREAT\Desktop\C# Assignment\LabAssignment4\obj\Debug\netcoreapp3.1\LabAssignment4.AssemblyInfoInputs.cache
+C:\Users\GREAT\Desktop\C# Assignment\LabAssignment4\obj\Debug\netcoreapp3.1\LabAssignment4.AssemblyInfo.cs
+C:\Users\GREAT\Desktop\C# Assignment\LabAssignment4\obj\Debug\netcoreapp3.1\LabAssignment4.csproj.CoreCompileInputs.cache
+C:\Users\GREAT\Desktop\C# Assignment\LabAssignment4\bin\Debug\netcoreapp3.1\LabAssignment4.exe
+C:\Users\GREAT\Desktop\C# Assignment\LabAssignment4\bin\Debug\netcoreapp3.1\LabAssignment4.deps.json
+C:\Users\GREAT\Desktop\C# Assignment\LabAssignment4\bin\Debug\netcoreapp3.1\LabAssignment4.runtimeconfig.json
+C:\Users\GREAT\Desktop\C# Assignment\LabAssignment4\bin\Debug\netcoreapp3.1\LabAssignment4.runtimeconfig.dev.json
+C:\Users\GREAT\Desktop\C# Assignment\LabAssignment4\bin\Debug\netcoreapp3.1\LabAssignment4.dll
+C:\Users\GREAT\Desktop\C# Assignment\LabAssignment4\bin\Debug\netcoreapp3.1\LabAssignment4.pdb
+C:\Users\GREAT\Desktop\C# Assignment\LabAssignment4\obj\Debug\netcoreapp3.1\LabAssignment4.dll
+C:\Users\GREAT\Desktop\C# Assignment\LabAssignment4\obj\Debug\netcoreapp3.1\LabAssignment4.pdb
+C:\Users\GREAT\Desktop\C# Assignment\LabAssignment4\obj\Debug\netcoreapp3.1\LabAssignment4.genruntimeconfig.cache
